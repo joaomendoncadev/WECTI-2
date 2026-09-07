@@ -1,5 +1,5 @@
 # Como contribuir - WECTI
-
+teste
 ## Fluxo de Git
 
 1. `main` é protegida - nunca commitar direto nela.
